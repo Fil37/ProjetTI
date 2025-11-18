@@ -85,7 +85,7 @@ def balayer_et_traiter_images(repertoire_racine):
     print("\nTraitement terminé.")
 
 
-REPERTOIRE_IMAGES = r"C:\Users\aliam\OneDrive\Desktop\6fresques_et\6fresques_et\Lanzani_SantAntonioproteggePavia_2440x2524\frag_eroded"
+REPERTOIRE_IMAGES = r"C:\Projects\ProjetStage&Ecole\ProjetTI\Data\6fresques_et\Lanzani_SantAntonioproteggePavia_2440x2524\frag_eroded"
 
 # Exécution de la fonction principale
 balayer_et_traiter_images(REPERTOIRE_IMAGES)
